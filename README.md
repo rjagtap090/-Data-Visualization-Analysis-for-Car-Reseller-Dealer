@@ -2,7 +2,8 @@
 
 ## Overview
 
-In this project used Alteryx for data cleaning and Qlik Sense for creating impactful dashboards. The objective was to improve data accuracy by 20% and apply machine learning techniques for sales trend forecasting, aligning with job requirements for advanced data analysis and visualization.
+In this project used Alteryx for data cleaning and Qlik Sense for creating impactful dashboards. 
+The objective was to improve data accuracy by 20% and apply Storytelling techniques for sales trend forecasting, aligning with job requirements for advanced data analysis and visualization.
 
 ## Features
 
