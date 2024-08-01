@@ -82,7 +82,6 @@ In this project used Alteryx for data cleaning and Qlik Sense for creating impac
 
 - **Improved Data Accuracy:** Enhanced by 20% through Alteryx-driven data cleaning.
 - **Impactful Dashboards:** Created using Qlik Sense to provide clear insights.
-- **Sales Trend Forecasting:** Applied machine learning techniques for accurate predictions.
 
 ## Author
 
