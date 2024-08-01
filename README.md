@@ -86,7 +86,7 @@ The objective was to improve data accuracy by 20% and apply Storytelling techniq
 
 ## Author
 
-- **Rishabh Jagtap** [Email](mailto:rjagtap9299@gmail.com))
+- **Rishabh Jagtap** ([Email](mailto:rjagtap9299@gmail.com))
 
 ## Acknowledgments
 
